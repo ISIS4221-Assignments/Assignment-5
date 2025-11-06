@@ -7,3 +7,6 @@ env/
 
 # Ignore python-version
 .python-version
+
+# Ignore pt files
+models/
