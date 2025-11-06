@@ -1,0 +1,9 @@
+# Ignore extracted data folders
+data/20_news/
+data/multi_domain_sentiment/
+
+# Ignore virtual env
+env/
+
+# Ignore python-version
+.python-version
