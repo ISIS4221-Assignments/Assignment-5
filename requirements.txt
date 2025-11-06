@@ -2,3 +2,6 @@ ipykernel
 pandas
 numpy
 scikit-learn
+transformers
+torch
+ipywidgets
