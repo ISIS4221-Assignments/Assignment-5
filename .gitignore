@@ -9,4 +9,4 @@ env/
 .python-version
 
 # Ignore pt files
-models/
+models/*.pt
